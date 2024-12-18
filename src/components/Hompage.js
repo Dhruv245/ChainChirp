@@ -244,7 +244,7 @@ const Homepage = () => {
         add();
       }
     }
-  }, [user, isAuthenticated])
+  }, [])
 
   const login = async () => {
     try {
@@ -256,7 +256,7 @@ const Homepage = () => {
         const signer = await provider.getSigner();
         const contract = new ethers.Contract(config.contractAddress, abi, signer);
 
-        const contractWithSigner = contract.connect(await signer);
+        const contractWithSigner = contract.connect(signer);
 
         // Request account access if needed 
         const accounts = await provider.send("eth_requestAccounts", []);

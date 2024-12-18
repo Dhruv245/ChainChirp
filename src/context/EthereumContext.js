@@ -55,10 +55,6 @@ export const EthereumProvider = ({ children }) => {
     };
 
     // Automatically attempt to connect when component mounts
-    useEffect(() => {
-        console.log("isAuthenticated", isAuthenticated);
-        console.log("user", user);
-    }, [user, isAuthenticated]);
 
     return (
         <EthereumContext.Provider value={{
