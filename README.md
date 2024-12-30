@@ -1,8 +1,8 @@
-# Chirping: A Web3 Social Media Platform 🐦
+# ChainChirp: A Web3 Social Media Platform 🐦
 
-Chirping is a **Web3-powered social media platform** built on the **BNB Testnet Chain**, where every user starts equally and earns recognition based on the value they bring to the community. Posts, likes, and reactions are decentralized, ensuring fairness and transparency, free from the control of a central authority. ✨
+ChainChirp is a **Web3-powered social media platform** built on the **BNB Testnet Chain**, where every user starts equally and earns recognition based on the value they bring to the community. Posts, likes, and reactions are decentralized, ensuring fairness and transparency, free from the control of a central authority. ✨
 
-Unlike traditional social media, **Chirping gamifies engagement**:  
+Unlike traditional social media, **ChainChirp gamifies engagement**:  
 - If users like your post, they reward you with **Wings 🪽** to help you level up.  
 - If they dislike your post, they give you **Cages 🪶**, showing their disapproval.  
 
@@ -39,7 +39,7 @@ As you post meaningful content and gain more Wings, you'll unlock exciting new f
 
 ## Getting Started 🛫
 
-Follow these steps to set up Chirping locally and start exploring its features.
+Follow these steps to set up ChainChirp locally and start exploring its features.
 
 ### Prerequisites  
 Ensure you have the following installed:  
@@ -50,8 +50,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/GillHapp/chainCharp.git
-   cd chirping
+   git clone https://github.com/Dhruv245/chainCharp.git
+   cd ChainChirp
    ```
 
 2. Install dependencies:  
@@ -85,7 +85,7 @@ Removes the single build dependency and gives full control of the configuration 
 
 ## 🤝 Contribution Guidelines
 
-We welcome contributions to make Chirping better! 🎉 To contribute:  
+We welcome contributions to make ChainChirp better! 🎉 To contribute:  
 1. Fork the repository.  
 2. Create a new branch.  
 3. Make your changes and commit them.  
