@@ -124,7 +124,7 @@ For detailed deployment steps, refer to the [React Deployment Documentation](htt
 ## ✨ Support
 
 Have questions or need help?  
-Feel free to reach out at **[your-email@example.com](mailto:your-email@example.com)** or create an issue in the repository.  
+Feel free to reach out at **[dhruvjainman@gmail.com](mailto:dhruvjainman@gmail.com)** or create an issue in the repository.  
 
 ---
 
