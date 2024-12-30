@@ -74,5 +74,7 @@ Access the app at **http://localhost:3000**. For more details, refer to [README.
 
 Have questions? Reach out to us at **[dhruvjainman@gmail.com](mailto:dhruvjainman@gmail.com)**. Contributions are welcome! Fork the repository, create a branch, make your changes, and submit a pull request.
 
+DOCS: [README](https://dhruv245.github.io/ChainChirp/)
+
 **Made with ❤️ and powered by Web3!**
 
