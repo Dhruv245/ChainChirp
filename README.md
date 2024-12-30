@@ -8,6 +8,9 @@ Unlike traditional social media, **ChainChirp gamifies engagement**:
 
 As you post meaningful content and gain more Wings, you'll unlock exciting new features and ascend through levels of recognition. 🏆
 
+DOCS: [README](https://dhruv245.github.io/ChainChirp/)
+PITCHDECK: [DOCS](https://dhruv245.github.io/ChainChirp/PITCHDECK)
+
 ---
 
 ## 🚀 Features
